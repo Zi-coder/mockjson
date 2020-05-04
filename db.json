@@ -1,10 +1,10 @@
 {
-	"themeCategories": [{
+	"themeCategories": {
 		"themeCategoryId": 5,
 		"themeCategoryName": "Live Themes",
 		"numPreviewThemes": 6,
 		"displayExpandedView": true,
 		"site_url":"https://my-json-server.typicode.com/",
 		"access":"https://my-json-server.typicode.com/Zi-coder/mockjson/db"
-	}]
+	}
 }
